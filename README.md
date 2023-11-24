@@ -50,7 +50,7 @@ Throughout the phases of this project, I contributed by,
 
 **Exploratory Data Analysis:**
 
-- Defining the Project Objective, Business Problem, and Analytic Problem
+- Defining the Project Objective, Business Problem, and Analytic Problem.
 - Identifying which of the variables were categorical and continous for Store Qualitative Attributes.
 - If a variable was categorical, gathering all possible levels of that variable.
 - Visualizing across all stores the different services that were offered at how many store locations.
@@ -66,20 +66,21 @@ Throughout the phases of this project, I contributed by,
 
 **Modeling:**
 
-- Prepared dataframes by merging selected datasets to obtain relevant information
-- Developed Multiple Regression, Random Forest Classifier, and Ensemble models
-- Tuned hyperparameters for each model and evaluated their performance
-- Identified and discussed top features influencing customer loan default
-- Tested the models on the test set
-- Created a Model Performance Summary Table for easy model comparison
-- Discussed and analyzed the results of the top features influencing loan default prediction
+- Prepared dataframes by merging qualitative and time series data against the store ID for the model to learn from the data set.
+- Encoding each of the categorical predictors for our model to correctly predict against these values and learn patterns.
+- Encoding the dates as categorical variables for the model to learn the seasonality patterns of sales of all 4 sales metrics.
+- Splitting the data sets into test and training sets
+- Built a SARIMA model to predict daily sales for a year based on information fed into the model on attributes and sales of dates.
+- Creating an output with 365 sales per day based on the current date.
+- Using hyper parameter tuning for a train set, building the model, then testing the model against a test set to give us the best performing SARIMA model based on R-Squared and RMSE values. 
+- Developing a table that is easier to read predicted outputs.
+- Creating a user interface that allows a user to input all qualitative information about a store, user inserts it, then prints the 365 days of the years sales.
+- Inserted a simple code that also allows the customer to run the model against a CSV file to gather predicted sales for each 4 units. (Unleaded gallons, diesel gallons, in store merchandise, and food service sales in dollars)
+
 
 [Link to Modeling Individual Contributions in Jupyter Notebook of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Modeling%20Files/Justin%20Hamilton%20Modeling%20Contribution%20October%2030%2C%202023.ipynb)
 
-
 [Link to Modeling Group Final Draft in Jupyter Notebook](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Model%20Final%20Draft/Capstone%20Modeling%20Assignment%20Group%207%20(1).ipynb)
-
-
 
 
 **Presentation**
