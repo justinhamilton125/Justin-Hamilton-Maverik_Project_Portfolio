@@ -15,9 +15,10 @@ Maverik desires to know the predicted daily sales for each of the 4 main product
 
 
 **Analytic Problem:**
-This project focuses on developing a model that will predict daily sales for 365 days for each of the 4 key indicators (target variaables) of unleaded gasoline, diesel fuel, in store merchandise, and food service sales. This model's daily predictions are to be based off past time series data of the stores sales per our 4 target variables, attributes of each stores offerings, and seasonality that occurs through customer behvaior through the year. The variables unleaded and diesel are in gallons sold, while in store merchandise and food services are in dollars. 
+This project focuses on developing a model that will predict daily sales for 365 days for each of the 4 key indicators (target variables) of unleaded gasoline, diesel fuel, in store merchandise, and food service sales. This model's daily predictions are to be based off past time series data of the stores sales per our 4 target variables, attributes of each stores offerings, and seasonality that occurs through customer behavior through the year. The variables unleaded and diesel are in gallons sold, while in store merchandise and food services are in dollars. 
 
 The model is to surpass current performance metrics of the model that is being used by Maverik and allow for simple implementation for a user friendly capability. 
+
 
 
 [Link to a More Detailed Business Problem Statement Submitted by Group](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Business%20Problem%20Statement%20Final%20Draft/IS%206813%20Maverick%20Business%20Problem%20Statement.pdf)
@@ -51,10 +52,10 @@ Throughout the phases of this project, I contributed by,
 **Exploratory Data Analysis:**
 
 - Defining the Project Objective, Business Problem, and Analytic Problem.
-- Identifying which of the variables were categorical and continous for Store Qualitative Attributes.
+- Identifying which of the variables were categorical and continuous for Store Qualitative Attributes.
 - If a variable was categorical, gathering all possible levels of that variable.
 - Visualizing across all stores the different services that were offered at how many store locations.
-- Developing histograms of the continous store attributes to see the patterns of Maverik developing all stores and what common patterns exist across stores.
+- Developing histograms of the continuous store attributes to see the patterns of Maverik developing all stores and what common patterns exist across stores.
 - Conducted a survey research on what customer preference, then weighting each attribute of a store to develop a composite score ranking which store customers may find preferrable. 
 
 
@@ -66,7 +67,7 @@ Throughout the phases of this project, I contributed by,
 
 **Modeling:**
 
-- Prepared dataframes by merging qualitative and time series data against the store ID for the model to learn from the data set.
+- Prepared data frames by merging qualitative and time series data against the store ID for the model to learn from the data set.
 - Encoding each of the categorical predictors for our model to correctly predict against these values and learn patterns.
 - Encoding the dates as categorical variables for the model to learn the seasonality patterns of sales of all 4 sales metrics.
 - Splitting the data sets into test and training sets
@@ -99,8 +100,8 @@ Throughout the project, the main difficulty our group came across was meeting th
 
 ## Key Take Aways
 Throughout this project my main key takeaways were that 
-- Collaboration empowers individuals, enabling them to discover superior solutions by leveraging diverse perspectives and insights from the data.
+- Ask, Ask, Ask. The best way that you can meet the desires of the client is by having an open discussion and always asking questions. Things change, so should the approach to solving the problem for the client's best success.
 
-- Data analysis extends beyond merely identifying variables. While a good analysis yields solutions, a great analysis demonstrates its impact and connects it to a tangible business value.
+- When implementing a model, the user is the end game. Once a model is built and performs well, it is most important for the client or user to easily replicate the results they desire by running this model on their own. 
 
-- Cultivating a sense of curiosity is paramount in data analysis. Embracing curiosity allows us to derive meaningful insights from our solutions, encouraging deeper exploration of the data and uncovering novel and unexpected solutions. Staying curious throughout the analysis process motivates us to explore uncharted territories and unlocks valuable discoveries we may not have initially considered.
+- Collaboration and contribution between data analysts is key. Building the right model takes time, so to increase effiency each data analyst can bring their own perspective and talent to the project to meet all the client's needs. Projects work best when each individual brings their own strengths and weaknesses, then working together to make an even stronger group result. After all, you can't have a feast if every body brings the same dish.
