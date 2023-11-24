@@ -1,10 +1,9 @@
 
-**[Click Here to view my Portfolio Repository with all Project Folders](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/tree/main)**
+**[Click Here to view my Portfolio Repository with all Folders Related to Maverik Project](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio)**
 
-There is currently one project, but this repo is intended to be updated with multiple projects.
+This repository is designed to show all individual contributions that I (Justin Hamilton) made to the Maverik Project. This repository as been made seperate from my current portfolio to maintain privacy of the Maverik Data.
 
-
-# [Project 1: Home Credit Default Analysis - Kaggle Project for MSBA Capstone (Linked)](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/tree/main/Project%201:%20Home%20Credit%20Default%20Model%20Files)
+# [Project 1: Maverik Predictive Modeling for Future Stores - MSBA Capstone (Linked)](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/tree/main/Project%201:%20Maverik%20Modeling%20Project)
 
 ## Project Overview:
 
@@ -22,7 +21,10 @@ The project focuses on predicting the creditworthiness of customers based on the
 
 The objective is to develop a classification model that accurately identifies good borrowers.
 
-[Link to a more detailed Business Problem Statement](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Business%20Problem%20Statement%20Home%20Credit%20Justin%20Hamilton.pdf)
+[Link to a More Detailed Business Problem Statement Submitted by Group](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Business%20Problem%20Statement%20Final%20Draft/IS%206813%20Maverick%20Business%20Problem%20Statement.pdf)
+
+
+[Link to a More Detailed Business Problem Statement Contributions of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Business%20Problem%20Statement%20Files/Business%20Problem%20Statement%20Justin%20Hamilton%20Individual%20Contributition.pdf)
 
 
 ## Solution to Business Problem
@@ -58,9 +60,11 @@ Throughout the phases of this project, I contributed by,
 - Obtaining unique values for categorical columns in the dataframes
 
 
-[Link to Jupyter Notebook of EDA Individual Contributions](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Exploratory%20Data%20Analysis%20Files/Justin%20Hamilton%20EDA%20Individual%20Contribution.ipynb)
+[Link to Jupyter Notebook of EDA Individual Contributions of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Exploratory%20Data%20Analysis%20Files/Justin%20Hamilton%20EDA%20(2).ipynb)
 
-[Link to HTML Version of EDA Individual Contributions](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Exploratory%20Data%20Analysis%20Files/Justin%20Hamilton%20EDA%20Individual%20Contribution%20(1).html)
+
+[Link to Jupyter Notebook of EDA Final Draft Group Submissions](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/EDA%20Final%20Draft/Group%207%20EDA%20Final%20Draft.ipynb)
+
 
 **Modeling:**
 
@@ -72,9 +76,13 @@ Throughout the phases of this project, I contributed by,
 - Created a Model Performance Summary Table for easy model comparison
 - Discussed and analyzed the results of the top features influencing loan default prediction
 
-[Link to Modeling Individual Contributions in Jupyter Notebook](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Modeling%20Files/%20Justin%20Hamilton%20Modeling%20Individual%20Contributions.ipynb)
+[Link to Modeling Individual Contributions in Jupyter Notebook of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Modeling%20Files/Justin%20Hamilton%20Modeling%20Contribution%20October%2030%2C%202023.ipynb)
 
-[Link to Modeling Individual Contribution in HTML File form](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Modeling%20Files/_Justin%20Hamilton%20Modeling%20Individual%20Contributions%20(2).html)
+
+[Link to Modeling Group Final Draft in Jupyter Notebook](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Model%20Final%20Draft/Capstone%20Modeling%20Assignment%20Group%207%20(1).ipynb)
+
+
+
 
 **Presentation**
 - Delivered a professional presentation outlining the solutions for Home Credit
