@@ -8,14 +8,14 @@ This repository is designed to show all individual contributions that I (Justin 
 ## Project Overview:
 
 **Project Objective:** 
-Maverik will be able to implement the model created in order to predict daily sales for diesel fuel, unleaded fuel, merchandise, and food sales for the entire first year of a store's operation. This model needs to surpass the accuracy metrics used by the current Maverik model in predicting these 4 product sales. 
+Maverik will be able to implement the model created in order to predict daily sales for diesel fuel, unleaded fuel, merchandise, and food sales for the entire first year of a store's operation. This model needs to surpass the performance metrics used by the current Maverik model in predicting these 4 product sales. 
 
 **Business Problem:**
-Maverik desires to know the daily sales for each of the 4 main products diesel fuel, unleaded fuel, merchandise, and food sales. Having these daily predictions allows for better planning for seasonality and setting realistic goals and expectations for what each new store can bring in revenue for the year to match the needs of estimated supply and demand. 
+Maverik desires to know the predicted daily sales for each of the 4 main products diesel fuel, unleaded fuel, merchandise, and food sales. Having these daily predictions allows for better planning for seasonality and setting realistic goals and expectations for what each new store can bring in revenue. These predictions will allow Maverik to match the needs of estimated supply and demand. 
 
 
 **Analytic Problem:**
-This project focuses on developing a model that will predict daily sales for 365 days for each of the 4 key indicators (target variaables) of unleaded gasoline, diesel fuel, in store merchandise, and food service sales. This model's daily predictions are to be based off past time series data of the stores sales per our 4 target variables, attributes of each stores offerings, and seasonality that occurs through customer behvaior through the year. 
+This project focuses on developing a model that will predict daily sales for 365 days for each of the 4 key indicators (target variaables) of unleaded gasoline, diesel fuel, in store merchandise, and food service sales. This model's daily predictions are to be based off past time series data of the stores sales per our 4 target variables, attributes of each stores offerings, and seasonality that occurs through customer behvaior through the year. The variables unleaded and diesel are in gallons sold, while in store merchandise and food services are in dollars. 
 
 The model is to surpass current performance metrics of the model that is being used by Maverik and allow for simple implementation for a user friendly capability. 
 
@@ -51,12 +51,11 @@ Throughout the phases of this project, I contributed by,
 **Exploratory Data Analysis:**
 
 - Defining the Project Objective, Business Problem, and Analytic Problem
-- Listing and defining variables present in the provided datasets
-- Exploring the datasets by creating dataframes
-- Identifying common columns among the dataframes
-- Analyzing summary statistics for all numeric columns in the dataframes
-- Summarizing information for categorical variables in the datasets
-- Obtaining unique values for categorical columns in the dataframes
+- Identifying which of the variables were categorical and continous for Store Qualitative Attributes.
+- If a variable was categorical, gathering all possible levels of that variable.
+- Visualizing across all stores the different services that were offered at how many store locations.
+- Developing histograms of the continous store attributes to see the patterns of Maverik developing all stores and what common patterns exist across stores.
+- Conducted a survey research on what customer preference, then weighting each attribute of a store to develop a composite score ranking which store customers may find preferrable. 
 
 
 [Link to Jupyter Notebook of EDA Individual Contributions of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Exploratory%20Data%20Analysis%20Files/Justin%20Hamilton%20EDA%20(2).ipynb)
