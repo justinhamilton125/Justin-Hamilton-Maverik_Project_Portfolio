@@ -85,10 +85,11 @@ Throughout the phases of this project, I contributed by,
 
 
 **Presentation**
-- Delivered a professional presentation outlining the solutions for Home Credit
-- Designed visually appealing and informative slides to effectively communicate the solution and rationale to Home Credit
+- Delivered a professional presentation outlining the solutions for Maverik Predictive Sales Model.
+- Designed visually appealing and informative slides to effectively communicate the solution and rationale to Maverik.
+- Implemented areas of audience engagement and visualization within the presentation to Maverik. 
 
-[Link to PowerPoint Slide Deck Individual Portion](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Justin%20Hamilton%20Presentation%20Portion%20Slide%20Deck.pptx)
+[Link to PowerPoint Slide Deck Individual Portion from Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/tree/main/Project%201%3A%20Maverik%20Modeling%20Project/Final%20Presentation%20Files)
 
 ## Impact/Business Value:
 
