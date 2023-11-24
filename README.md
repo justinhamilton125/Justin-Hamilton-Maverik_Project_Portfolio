@@ -1,25 +1,24 @@
 
 **[Click Here to view my Portfolio Repository with all Folders Related to Maverik Project](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio)**
 
-This repository is designed to show all individual contributions that I (Justin Hamilton) made to the Maverik Project. This repository as been made seperate from my current portfolio to maintain privacy of the Maverik Data.
+This repository is designed to show all individual contributions that I (Justin Hamilton) made to the Maverik Modeling Project. This repository as been made seperate from my current portfolio to maintain privacy of the Maverik Data.
 
 # [Project 1: Maverik Predictive Modeling for Future Stores - MSBA Capstone (Linked)](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/tree/main/Project%201:%20Maverik%20Modeling%20Project)
 
 ## Project Overview:
 
 **Project Objective:** 
-Create a predictive model for Home Credit (Loan Brokerage) to identify safe candidates for lending. The model will use customer financial behavior data to determine whether a customer is likely to default on a loan. The project aims to increase revenue, enhance customer experience, and reduce default rates.
-
+Maverik will be able to implement the model created in order to predict daily sales for diesel fuel, unleaded fuel, merchandise, and food sales for the entire first year of a store's operation. This model needs to surpass the accuracy metrics used by the current Maverik model in predicting these 4 product sales. 
 
 **Business Problem:**
-Home Credit faces challenges in identifying safe borrowers among customers who are unfamiliar with banking. Lending to individuals with a higher likelihood of loan default leads to decreased profits and negative customer experiences.
+Maverik desires to know the daily sales for each of the 4 main products diesel fuel, unleaded fuel, merchandise, and food sales. Having these daily predictions allows for better planning for seasonality and setting realistic goals and expectations for what each new store can bring in revenue for the year to match the needs of estimated supply and demand. 
 
 
 **Analytic Problem:**
+This project focuses on developing a model that will predict daily sales for 365 days for each of the 4 key indicators (target variaables) of unleaded gasoline, diesel fuel, in store merchandise, and food service sales. This model's daily predictions are to be based off past time series data of the stores sales per our 4 target variables, attributes of each stores offerings, and seasonality that occurs through customer behvaior through the year. 
 
-The project focuses on predicting the creditworthiness of customers based on their financial behavior data. The target variable is binary, where 1 represents customers with payment difficulties (not trustworthy borrowers) and 0 represents trustworthy borrowers with a positive repayment history. 
+The model is to surpass current performance metrics of the model that is being used by Maverik and allow for simple implementation for a user friendly capability. 
 
-The objective is to develop a classification model that accurately identifies good borrowers.
 
 [Link to a More Detailed Business Problem Statement Submitted by Group](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Business%20Problem%20Statement%20Final%20Draft/IS%206813%20Maverick%20Business%20Problem%20Statement.pdf)
 
