@@ -92,7 +92,7 @@ Throughout the phases of this project, I contributed by,
 
 ## Impact/Business Value:
 
-Implementing this predictive model enables Home Credit to reduce costs by accurately identifying customers likely to default based on their historical data. It also minimizes the risk of granting loans to high-risk individuals. By using the model's predictions, Home Credit can selectively offer loans only to customers projected to have a low likelihood of defaulting. This strategic decision-making process effectively mitigates the risk of loan defaults, reduces non-payment costs, and increases revenue by lending to dependable borrowers. Consequently, this combination of risk reduction, cost optimization, and increased revenue leads to a substantial increase in overall profits for Home Credit.
+Implementing this user friendly predictive model allows Maverik to plan effectively for all key areas of the business. This predictive model allows finance to understand the estimates that should be occuring quarterly, operations to meet the supply and demanded seen by each store based on predictive sales data, marketing to know which stores to increase advertising to in the area to increase revenue thus increasing profit, and management to see which stores may need more staffing based on having more sales (indicating there to be more need for service at the location). It is clear that this model has the ability to support each of the main functions of running a successful business such as Maverik. Using this model will allow for proper planning of each new store, while still seeing opportunities to increase revenue in stores, thus increasing total profit of Maverik.  
 
 ## Difficulties Along the Way
 
