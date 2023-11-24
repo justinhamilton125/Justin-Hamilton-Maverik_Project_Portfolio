@@ -92,7 +92,14 @@ Throughout the phases of this project, I contributed by,
 
 ## Impact/Business Value:
 
-Implementing this user friendly predictive model allows Maverik to plan effectively for all key areas of the business. This predictive model allows finance to understand the estimates that should be occurring quarterly, operations to meet the supply and demanded seen by each store based on predictive sales data, marketing to know which stores to increase advertising to in the area to increase revenue thus increasing profit, and management to see which stores may need more staffing based on having more sales (indicating there to be more need for service at the location). It is clear that this model has the ability to support each of the main functions of running a successful business such as Maverik. Using this model will allow for proper planning of each new store, while still seeing opportunities to increase revenue in stores, thus increasing total profit of Maverik.  
+Implementing this user friendly predictive model allows Maverik to plan effectively for all key areas of the business. This predictive model allows:
+
+- Finance to understand the estimates that should be occurring quarterly,
+- Operations to meet the supply and demanded seen by each store based on predictive sales data
+- Marketing to know which stores to increase advertising to in the area to increase revenue thus increasing profit
+- Management to see which stores may need more staffing based on having more sales (indicating there to be more need for service at the location).
+
+It is clear that this model has the ability to support each of the main functions of running a successful business such as Maverik. Using this model will allow for proper planning of each new store, while still seeing opportunities to increase revenue in stores, thus increasing total profit of Maverik.  
 
 ## Difficulties Along the Way
 
