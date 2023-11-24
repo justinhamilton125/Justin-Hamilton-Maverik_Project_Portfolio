@@ -95,8 +95,7 @@ Implementing this predictive model enables Home Credit to reduce costs by accura
 
 ## Difficulties Along the Way
 
-Throughout this project, our group faced significant challenges related to the limited memory and processing capacity of our individual laptops. Each team member was using a laptop with minimal storage and computing power. As a result, running the models sometimes took up to 8 hours, leading to extended waiting times and difficulties in fine-tuning and training the models to achieve the desired results. The prolonged execution times hindered our ability to efficiently iterate and optimize the models according to our specific requirements.
-
+Throughout the project, the main difficulty our group came across was meeting the expectations of the client (Maverik), computation cost of building the models, and determining of all good models which would be the best. Our group found that generally, Maverik was unclear or uncertain on the result that they were looking for from us. This taught us that it is highly important to always ask questions when facing the client to ensure that we meet the expectations and requirements of the client. With the large predictions of the models, we also ran into difficulties of computation cost as most users computers had only 8 GB of RAM. This limited the output that our code could generate, but could generate better outputs when ran on a more powerful computer. We found that we had many well performing models, but with so many well performing models it could become difficult to know which of them were the best to send to Maverik because each model had its' own pros and cons it could become difficult the universally used on in recommendation and application to Maverik. 
 
 ## Key Take Aways
 Throughout this project my main key takeaways were that 
