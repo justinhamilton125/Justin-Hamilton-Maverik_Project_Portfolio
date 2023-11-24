@@ -98,9 +98,9 @@ Implementing this user friendly predictive model allows Maverik to plan effectiv
 
 Throughout the project, the main difficulty our group came across was understanding the expectations of the client (Maverik), computation cost of building the models, and determining of all good models which would be the best to implement within Maverik. 
 
-* Our group found that generally, the full expectation from Maverik at times were unclear. This taught us that it is highly important to always ask questions when facing the client to ensure that we meet the expectations and requirements of the client. 
-* With the large predictions of the models, we ran into difficulties of computation cost as most users computers had only 8 GB of RAM. This limited the output that our code could generate, but could generate better outputs when ran on a more powerful computer within Maverik. 
-* We found that we had many well performing models, but with so many well performing models it could become difficult to know which of them were the best to send to Maverik because each model had its' own pros and cons. With these trade offs, it showed us there was so much more to providing a valuable model going beyond simply performance metrics. 
+- Our group found that generally, the full expectation from Maverik at times were unclear. This taught us that it is highly important to always ask questions when facing the client to ensure that we meet the expectations and requirements of the client.
+- With the large predictions of the models, we ran into difficulties of computation cost as most users computers had only 8 GB of RAM. This limited the output that our code could generate, but could generate better outputs when ran on a more powerful computer within Maverik.
+- We found that we had many well performing models, but with so many well performing models it could become difficult to know which of them were the best to send to Maverik because each model had its' own pros and cons. With these trade offs, it showed us there was so much more to providing a valuable model going beyond simply performance metrics. 
 
 ## Key Take Aways
 Throughout this project my main key takeaways were that 
