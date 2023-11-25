@@ -28,18 +28,14 @@ The model is to surpass current performance metrics of the model that is being u
 
 
 ## Solution to Business Problem
-Our group's solution to the business problem involved implementing a Gradient Boosting Model. This model yielded a Kaggle score of 0.656 and an AUC of 0.669, indicating its reasonable performance.
+Our group's solution to the business problem for Maverik is to implement a Prophet Model. This Prophet model can be used to predict the daily sales for 365 days for the diesel fuel, unleaded fuel, in store merchandise sales, and food service sales. This model was trained on 2.5 years worth of sales data and captures daily, monthly, annual, and holiday seasonality of consumer purchase behavior for all 4 sales types. 
 
-Based on our model's analysis, we identified several important factors that significantly influence the likelihood of loan default:
+This model is recommended as it had the best performing metrics of predicting on a 6 month basis of:
 
-1. A high number of enquiries were made to the Credit Bureau just one day before the loan application
-2. Clients provide a work phone during the application process
-3. Clients residing in regions of the city with lower ratings, as determined by their address
-4. Loans used for purchasing high-priced goods
-5. A large number of enquiries were made to the Credit Bureau within one hour prior to the application
-6. Mismatch between the client's permanent address and contact address
-
-These findings can be crucial for Home Credit to assess the creditworthiness of applicants and make informed lending decisions that will lead to minimized risk, cost, increasing revenue, and profit for the company.
+- Inside Sales RMSE: 93
+- Food Service RMSE: 333
+- Dieseld RMSE: 2,199
+- Unleaded RMSE: 1,040
 
 
 [![Link to Features Ranked by Importance Graph](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Images/Feature%20Importance%20Solution%20Graph.png)](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Images/Feature%20Importance%20Solution%20Graph.png)
