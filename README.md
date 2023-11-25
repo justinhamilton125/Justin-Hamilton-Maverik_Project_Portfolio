@@ -49,9 +49,15 @@ These findings can be crucial for Home Credit to assess the creditworthiness of 
 
 Throughout the phases of this project, I contributed by,
 
+**Business Problem Statement:**
+- Identifying the key success metrics and scope of the problem that needed to be solved.
+- Re-evaluating the Business Problem and Analytic problem that was to be solved.
+
+
 **Exploratory Data Analysis:**
 
 - Defining the Project Objective, Business Problem, and Analytic Problem.
+- Recognizing questions that would lead our exploration of the data.
 - Identifying which of the variables were categorical and continuous for Store Qualitative Attributes.
 - If a variable was categorical, gathering all possible levels of that variable.
 - Visualizing across all stores the different services that were offered at how many store locations.
@@ -93,12 +99,12 @@ Throughout the phases of this project, I contributed by,
 
 ## Impact/Business Value:
 
-Implementing this user friendly predictive model allows Maverik to plan effectively for all key areas of the business. This predictive model allows:
+Implementing this user friendly predictive model allows Maverik to plan effectively for all 4 pillars of business. This predictive model allows:
 
-- Finance to understand the estimates that should be occurring quarterly,
-- Operations to meet the supply and demanded seen by each store based on predictive sales data
-- Marketing to know which stores to increase advertising to in the area to increase revenue thus increasing profit
-- Management to see which stores may need more staffing based on having more sales (indicating there to be more need for service at the location).
+- Finance: See which stores have the highest revenue growth opportunities.
+- Operations: Anticipate the supply needed to match the demand of each store based on estimated sales data.
+- Marketing: Know which stores to increase advertising to in the area to increase revenue thus increasing profit.
+- Management: Report estimated earnings to shareholders and build the Maverick brand based on growth and performance.
 
 It is clear that this model has the ability to support each of the main functions of running a successful business such as Maverik. Using this model will allow for proper planning of each new store, while still seeing opportunities to increase revenue in stores, thus increasing total profit of Maverik.  
 
