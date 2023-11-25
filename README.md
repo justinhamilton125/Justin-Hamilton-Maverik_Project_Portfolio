@@ -53,6 +53,11 @@ Throughout the phases of this project, I contributed by,
 - Identifying the key success metrics and scope of the problem that needed to be solved.
 - Re-evaluating the Business Problem and Analytic problem that was to be solved.
 
+[Link to a More Detailed Business Problem Statement Submitted by Group](https://github.com/justinhamilton125/IS-6813-Maverick-Case-Competition/blob/main/Business%20Problem%20Statement%20Final%20Draft/IS%206813%20Maverick%20Business%20Problem%20Statement.pdf)
+
+
+[Link to a More Detailed Business Problem Statement Contributions of Justin Hamilton](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Business%20Problem%20Statement%20Files/Business%20Problem%20Statement%20Justin%20Hamilton%20Individual%20Contributition.pdf)
+
 
 **Exploratory Data Analysis:**
 
