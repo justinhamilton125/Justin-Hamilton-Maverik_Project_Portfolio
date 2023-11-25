@@ -28,6 +28,7 @@ The model is to surpass current performance metrics of the model that is being u
 
 
 ## Solution to Business Problem
+
 Our group's solution to the business problem for Maverik is to implement a Prophet Model. This Prophet model can be used to predict the daily sales for 365 days for the diesel fuel, unleaded fuel, in store merchandise sales, and food service sales. This model was trained on 2.5 years worth of sales data and captures daily, monthly, annual, and holiday seasonality of consumer purchase behavior for all 4 sales types. 
 
 This model is recommended as it had the best performing metrics of predicting on a 6 month basis of:
@@ -37,8 +38,9 @@ This model is recommended as it had the best performing metrics of predicting on
 - Dieseld RMSE: 2,199
 - Unleaded RMSE: 1,040
 
+We test these performance metrics on a 6 month basis because this allows the model to test against several types of seasonality that could be occuring while also being able to be put against different dates and seasons that may have different sales per date.
 
-[![Link to Features Ranked by Importance Graph](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Images/Feature%20Importance%20Solution%20Graph.png)](https://github.com/justinhamilton125/Justin_Hamilton_Portfolio/blob/main/Project%201%3A%20Home%20Credit%20Default%20Model%20Files/Images/Feature%20Importance%20Solution%20Graph.png)
+When the model was scored using the MASE method and comparing it against a basic Naive Bayes model, we found that this Prophet model had a 26% improvement in accuracy when using cross validation and a 17% improvement when tested against each of the scores actual sales for each date. 
 
 
 ## Individual Contribution
