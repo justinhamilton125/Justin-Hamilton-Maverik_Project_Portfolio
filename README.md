@@ -106,8 +106,7 @@ Throughout the phases of this project, I contributed by,
 
 [Link to PowerPoint Slide Deck Individual contribution from Justin Hamilton as PDF](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Final%20Presentation%20Files/Justin%20Hamilton%20Final%20Presentation%20Slide%20Deck%20Individual%20Contribution.pdf)
 
-[Link to PowerPoint Slide Deck Individual contribution from Justin Hamilton as PowerPoint File]([https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/tree/main/Project%201%3A%20Maverik%20Modeling%20Project/Final%20Presentation%20Files](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Final%20Presentation%20Files/Justin%20Hamilton%20Final%20Presentation%20Slide%20Deck%20Individual%20Contribution.pptx))
-
+[Link to PowerPoint Slide Deck Individual contribution from Justin Hamilton as PowerPoint File](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/blob/main/Project%201%3A%20Maverik%20Modeling%20Project/Final%20Presentation%20Files/Justin%20Hamilton%20Final%20Presentation%20Slide%20Deck%20Individual%20Contribution.pptx)
 
 ## Impact/Business Value:
 
