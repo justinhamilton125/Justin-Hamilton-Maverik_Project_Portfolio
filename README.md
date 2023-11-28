@@ -1,7 +1,7 @@
 
 **[Click Here to view my Portfolio Repository with all Folders Related to Maverik Project](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio)**
 
-This repository is designed to show all individual contributions that I (Justin Hamilton) made to the Maverik Modeling Project. This repository as been made seperate from my current portfolio to maintain privacy of the Maverik Data.
+This repository is designed to show all individual contributions that I (Justin Hamilton) made to the Maverik Modeling Project. This repository as been made separate from my current portfolio to maintain privacy of the Maverik Data.
 
 # [Project 1: Maverik Predictive Modeling for Future Stores - MSBA Capstone (Linked)](https://github.com/justinhamilton125/Justin_Hamilton_Maverik_Project_Portfolio/tree/main/Project%201:%20Maverik%20Modeling%20Project)
 
@@ -35,14 +35,14 @@ This model is recommended as it had the best performing metrics of predicting on
 
 - Inside Sales RMSE: 93
 - Food Service RMSE: 333
-- Dieseld RMSE: 2,199
+- Diesel RMSE: 2,199
 - Unleaded RMSE: 1,040
 
-We test these performance metrics on a 6 month basis because this allows the model to test against several types of seasonality that could be occuring while also being able to be put against different dates and seasons that may have different sales per date.
+We test these performance metrics on a 6 month basis because this allows the model to test against several types of seasonality that could be occurring while also being able to be put against different dates and seasons that may have different sales per date.
 
 When the model was scored using the MASE method and comparing it against a basic Naive Bayes model, we found that this Prophet model had a 26% improvement in accuracy when using cross validation and a 17% improvement when tested against each of the scores actual sales for each date. 
 
-When ran against a new store's purchases throughout a time frame and the model then predicting sales for the remainder of the year, the code will ouput an image with a trend line of future sales, the confidence intervals for each prediction occuring, and the sales data that was fed into the model to identify any outliers on the plotted image. 
+When ran against a new store's purchases throughout a time frame and the model then predicting sales for the remainder of the year, the code will output an image with a trend line of future sales, the confidence intervals for each prediction occurring, and the sales data that was fed into the model to identify any outliers on the plotted image. 
 **To maintain confidentiality of Maverik not to disclose data publicly, the model outputted image for predicted sales has been omitted from this section.**
 
 
@@ -133,4 +133,4 @@ Throughout this project my main key takeaways were that
 
 - When implementing a model, the user is the end game. Once a model is built and performs well, it is most important for the client or user to easily replicate the results they desire by running this model on their own. 
 
-- Collaboration and contribution between data analysts is key. Building the right model takes time, so to increase effiency each data analyst can bring their own perspective and talent to the project to meet all the client's needs. Projects work best when each individual brings their own strengths and weaknesses, then working together to make an even stronger group result. After all, you can't have a feast if every body brings the same dish.
+- Collaboration and contribution between data analysts is key. Building the right model takes time, so to increase efficiency each data analyst can bring their own perspective and talent to the project to meet all the client's needs. Projects work best when each individual brings their own strengths and weaknesses, then working together to make an even stronger group result. After all, you can't have a feast if every body brings the same dish.
